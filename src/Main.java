@@ -1,5 +1,6 @@
 // TRABALHO - 1
 // Grupo: Pedro Paiva, João Hugo, Bernardo Ladeira, Denis Lima, Mateus Silva.
+// Tema: Sistema de vendas Padaria
 
 import java.util.Scanner;
 
